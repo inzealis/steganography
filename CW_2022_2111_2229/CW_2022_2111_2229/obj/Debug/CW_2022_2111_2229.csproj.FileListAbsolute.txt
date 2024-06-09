@@ -1,0 +1,15 @@
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\bin\Debug\CW_2022_2111_2229.exe.config
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\bin\Debug\CW_2022_2111_2229.exe
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\bin\Debug\CW_2022_2111_2229.pdb
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.csproj.AssemblyReference.cache
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.csproj.SuggestedBindingRedirects.cache
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.Form1.resources
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.Properties.Resources.resources
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.csproj.GenerateResource.cache
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.csproj.CoreCompileInputs.cache
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.exe
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.pdb
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.Form2.resources
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.Form3.resources
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.Form4.resources
+D:\3 семестр\CW_2022_2111_2229\CW_2022_2111_2229\obj\Debug\CW_2022_2111_2229.Form5.resources
